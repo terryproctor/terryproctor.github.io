@@ -24,3 +24,4 @@ I have also gained a PCEP qualification in Python programming language and I hav
 #### Contact
 
 email: terryproctor2015@outlook.com
+Twitter: @TerryProctor17

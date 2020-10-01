@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Terry Proctor
+## Software Devloper
 
-You can use the [editor on GitHub](https://github.com/terryproctor/terryproctor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In 2020, I was forced into being placed on furlough during the lockdown due to Covid-19. 
+In May, I decided I was going to make a career change and I decided to try learning to code. 
+As a result I found that I enjoyed it and I was pretty good at coding too.
+I'm still working my regular job whilst studying and making projects, but hopefully that'll change as well!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I've learnt so far:
 
-### Markdown
+-HTML and CSS
+-Javascipt
+-Python
+-Some C (through CS50)
+-Git
+-Using Linux (terminal especially!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have also gained a PCEP qualification in Python programming language and I have started a Computing and IT degree with Open University.
 
-```markdown
-Syntax highlighted code block
+### Projects
 
-# Header 1
-## Header 2
-### Header 3
+*Coming soon*
+ 
+#### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/terryproctor/terryproctor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+email: terryproctor2015@outlook.com

@@ -8,12 +8,12 @@ I'm still working my regular job whilst studying and making projects, but hopefu
 
 ### What I've learnt so far:
 
--HTML and CSS
--Javascipt
--Python
--Some C (through CS50)
--Git
--Using Linux (terminal especially!)
+* HTML and CSS
+* Javascipt
+* Python
+* Some C (through CS50)
+* Git
+* Using Linux (terminal especially!)
 
 I have also gained a PCEP qualification in Python programming language and I have started a Computing and IT degree with Open University.
 

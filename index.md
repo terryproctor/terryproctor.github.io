@@ -22,6 +22,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)
 * [Greedy Change Calculator](https://github.com/terryproctor/greedyChangePy/blob/master/greedy_change_array_ii.py)
+* [Sharks Eating Mermaids](https://scratch.mit.edu/projects/422385804)
  
 #### Contact
 

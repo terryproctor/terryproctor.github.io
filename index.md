@@ -19,7 +19,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 
 ### Projects
 
-*Coming soon*
+* [Google Page](https://terryproctor.github.io/google-homepage/)
  
 #### Contact
 

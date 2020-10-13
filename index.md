@@ -6,6 +6,9 @@ In May, I decided I was going to make a career change and I decided to try learn
 As a result I found that I enjoyed it and I was pretty good at coding too.
 I'm still working my regular job whilst studying and making projects, but hopefully that'll change as well!
 
+I'm a big fan on the Python Programming language and also web design using CSS. 
+My other interests include photography and powerlifting.
+
 ### What I've learnt so far:
 
 * HTML and CSS

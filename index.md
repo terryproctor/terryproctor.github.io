@@ -35,4 +35,4 @@ email: terryproctor2015@outlook.com
 
 Twitter: @TerryProctor17
 
-CodePen: [CodePen](https://codepen.io/terryproctor/pens/)
+CodePen: [@terryproctor](https://codepen.io/terryproctor/pens/)

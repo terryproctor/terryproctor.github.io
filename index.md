@@ -26,7 +26,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Marble Betting Game](https://github.com/terryproctor/marble_trading_game/blob/master/marble_trading_game.py)
 * [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)
 * [Greedy Change Calculator](https://github.com/terryproctor/greedyChangePy/blob/master/greedy_change_array_ii.py)
-* [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog/)
+* [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog)
 * [Sharks Eating Mermaids](https://scratch.mit.edu/projects/422385804)
  
 #### Contact

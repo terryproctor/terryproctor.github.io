@@ -1,5 +1,5 @@
 # Terry Proctor
-## Software Devloper
+## Software Developer
 
 In 2020, I was forced into being placed on furlough during the lockdown due to Covid-19. 
 In May, I decided I was going to make a career change and I decided to try learning to code. 

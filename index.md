@@ -28,6 +28,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Marble Betting Game](https://github.com/terryproctor/marble_trading_game/blob/master/marble_trading_game.py)
 * [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)
 * [Greedy Change Calculator](https://github.com/terryproctor/greedyChangePy/blob/master/greedy_change_array_ii.py)
+* [Arithmatic Calculator - Work in Progress](https://github.com/terryproctor/arithmetic_calculator/blob/master/arithmetic_arranger.py)
 * [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog)
 * [Calculating the standard deviation of a tuple](https://github.com/terryproctor/standard_deviation/blob/main/standard_deviation.py)
 * [Sharks Eating Mermaids](https://scratch.mit.edu/projects/422385804)

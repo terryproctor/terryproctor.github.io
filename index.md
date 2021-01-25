@@ -24,6 +24,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 ### Projects
 
 * [Google Page](https://terryproctor.github.io/google-homepage/)
+* [Flipping Flashcards](https://terryproctor.github.io/flipping_cards/)
 * [PyTruck logistics calculator](https://github.com/terryproctor/PyTruck/blob/master/pyTruck.py)
 * [Marble Betting Game](https://github.com/terryproctor/marble_trading_game/blob/master/marble_trading_game.py)
 * [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)

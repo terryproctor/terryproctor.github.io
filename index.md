@@ -35,7 +35,6 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog)
 * [Calculating the standard deviation of a tuple](https://github.com/terryproctor/standard_deviation/blob/main/standard_deviation.py)
 * [Portfolio](https://terryproctor.github.io/portfolio/)
-* [Sharks Eating Mermaids](https://scratch.mit.edu/projects/422385804)
  
 #### Contact
 

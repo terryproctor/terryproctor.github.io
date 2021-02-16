@@ -34,6 +34,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Arithmatic Calculator - Work in Progress](https://github.com/terryproctor/arithmetic_calculator/blob/master/arithmetic_arranger.py)
 * [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog)
 * [Calculating the standard deviation of a tuple](https://github.com/terryproctor/standard_deviation/blob/main/standard_deviation.py)
+* [Vanilla Javascript Pizza Top App](https://terryproctor.github.io/pizzaToppings/)
 * [Portfolio](https://terryproctor.github.io/portfolio/)
  
 #### Contact

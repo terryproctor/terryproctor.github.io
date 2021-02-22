@@ -24,6 +24,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 
 ### Projects
 
+* [Keyboard Piano](https://terryproctor.github.io/KeyboardPiano/)
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Flipping Flashcards](https://terryproctor.github.io/flipping_cards/)
 * [Etch-a-Sketch](https://terryproctor.github.io/etch-a-sketch/)

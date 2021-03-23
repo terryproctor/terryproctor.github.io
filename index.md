@@ -24,6 +24,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 
 ### Projects
 
+* [Javascript Web Calculator](https://terryproctor.github.io/calculatorJS/)
 * [Keyboard Piano](https://terryproctor.github.io/KeyboardPiano/)
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Flipping Flashcards](https://terryproctor.github.io/flipping_cards/)

@@ -14,11 +14,12 @@ My other interests include photography and powerlifting.
 * HTML and CSS
 * Javascipt
 * Python
-* Some C (through CS50)
+* Some C
+* Ruby
 * Git
 * SQL
 * Bootstrap 4
-* Using Linux (terminal especially!)
+* Linux (terminal especially!)
 
 I have also gained a PCEP qualification in Python programming language and I have started a Computing and IT degree with Open University.
 

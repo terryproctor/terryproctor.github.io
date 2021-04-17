@@ -14,11 +14,8 @@ My other interests include photography and powerlifting.
 * HTML and CSS
 * Javascipt
 * Python
-* Some C
-* Ruby
 * Git
 * SQL
-* Bootstrap 4
 * Linux (terminal especially!)
 
 I have also gained a PCEP qualification in Python programming language and I have started a Computing and IT degree with Open University.
@@ -27,6 +24,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 
 * [Javascript Web Calculator](https://terryproctor.github.io/calculatorJS/)
 * [Keyboard Piano](https://terryproctor.github.io/KeyboardPiano/)
+* [Web Book Library App](https://terryproctor.github.io/bookLibrary/)
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Flipping Flashcards](https://terryproctor.github.io/flipping_cards/)
 * [Etch-a-Sketch](https://terryproctor.github.io/etch-a-sketch/)

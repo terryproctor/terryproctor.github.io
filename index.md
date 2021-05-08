@@ -27,6 +27,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Web Book Library App](https://terryproctor.github.io/bookLibrary/)
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Etch-a-Sketch](https://terryproctor.github.io/etch-a-sketch/)
+* [Tic-tac-toe in JS](https://terryproctor.github.io/tic-tac-toeJS/)
 * [PyTruck logistics calculator](https://github.com/terryproctor/PyTruck/blob/master/pyTruck.py)
 * [Marble Betting Game](https://github.com/terryproctor/marble_trading_game/blob/master/marble_trading_game.py)
 * [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)

@@ -30,11 +30,9 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Etch-a-Sketch](https://terryproctor.github.io/etch-a-sketch/)
 * [PyTruck logistics calculator](https://github.com/terryproctor/PyTruck/blob/master/pyTruck.py)
 * [Marble Betting Game](https://github.com/terryproctor/marble_trading_game/blob/master/marble_trading_game.py)
-* [Collatz](https://github.com/terryproctor/collatz/blob/gh-pages/theCollatzSequence.py)
 * [Greedy Change Calculator](https://github.com/terryproctor/greedyChangePy/blob/master/greedy_change_array_ii.py)
 * [Powerlifting Blog](https://terryproctor.github.io/powerliftingblog)
 * [Teacher Zhang Webpage](https://terryproctor.github.io/teacherZhang/)
-* [Calculating the standard deviation of a tuple](https://github.com/terryproctor/standard_deviation/blob/main/standard_deviation.py)
 * [Portfolio](https://terryproctor.github.io/portfolio/)
  
 #### Contact

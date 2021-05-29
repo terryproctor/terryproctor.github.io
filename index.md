@@ -26,6 +26,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 * [Keyboard Piano](https://terryproctor.github.io/KeyboardPiano/)
 * [Web Book Library App](https://terryproctor.github.io/bookLibrary/)
 * [Tic-tac-toe in JS](https://terryproctor.github.io/tic-tac-toeJS/)
+* [Webpack Webpage](https://terryproctor.github.io/restaurant_page/dist/)
 * [Google Page](https://terryproctor.github.io/google-homepage/)
 * [Etch-a-Sketch](https://terryproctor.github.io/etch-a-sketch/)
 * [PyTruck logistics calculator](https://github.com/terryproctor/PyTruck/blob/master/pyTruck.py)

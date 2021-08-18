@@ -24,6 +24,7 @@ I have also gained a PCEP qualification in Python programming language and I hav
 
 * [Javascript Web Calculator](https://terryproctor.github.io/calculatorJS/)
 * [Keyboard Piano](https://terryproctor.github.io/KeyboardPiano/)
+* [Data challenge CSV files](https://github.com/terryproctor/insurance_python_project/blob/main/us-medical-insurance-costs.ipynb)
 * [Web Book Library App](https://terryproctor.github.io/bookLibrary/)
 * [Tic-tac-toe in JS](https://terryproctor.github.io/tic-tac-toeJS/)
 * [Webpack Webpage](https://terryproctor.github.io/restaurant_page/dist/)
